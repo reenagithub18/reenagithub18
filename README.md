@@ -35,19 +35,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHANGE_THIS_TO_YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANGE_THIS_TO_YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHANGE_THIS_TO_YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="streak graph" />
-</div>
-
----
 
 <h3 align="center">📫 Connect with Me</h3>
 
